@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork_1_name">Colourful painting</string>
+    <string name="artwork_2_name">Stag Wildflowers Boho</string>
+    <string name="artwork_3_name">Halloween Haunted House Graveyard</string>
+    <string name="artwork_4_name">Abstract Continental Blue</string>
+    <string name="artwork_5_name">Sculpture, Metal, Rusty</string>
+    <string name="artwork_6_name">Nature Art Boy</string>
+    <string name="artwork_7_name">Elephant Tusk Namibia</string>
+    <string name="artwork_1_artist_and_year">Garageband (2017)</string>
+    <string name="artwork_2_artist_and_year">Chumel Nz (2017)</string>
+    <string name="artwork_3_artist_and_year">Creative Ralph (2021)</string>
+    <string name="artwork_4_artist_and_year">Szcylu (2019)</string>
+    <string name="artwork_5_artist_and_year">Real Work Hard (2013)</string>
+    <string name="artwork_6_artist_and_year">Ninikvaratskhelia (2012)</string>
+    <string name="artwork_7_artist_and_year">Art Tower (2022)</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+</resources>
